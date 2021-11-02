@@ -2,7 +2,7 @@
 
 Possuo mestrado (2017) e graduação (2014) em Ciência da Computação pela Universidade Federal de Pernambuco. Atualmente sou Engenheiro de Software Sênior na Pitang.
 
-<img src="https://github-readme-stats.vercel.app/api?username=carloscemb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloscemb&layout=compact&langs_count=7&theme=algolia"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=carloscemb"/>
+<img src="https://github-readme-stats.vercel.app/api?username=carloscemb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloscemb&layout=compact&langs_count=7&theme=algolia"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=carloscemb&theme=algolia"/>
   
 ## Ferramentas e Tecnologias
 
