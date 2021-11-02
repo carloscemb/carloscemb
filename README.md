@@ -4,8 +4,6 @@ Possuo mestrado (2017) e graduação (2014) em Ciência da Computação pela Uni
 
 <img src="https://github-readme-stats.vercel.app/api?username=carloscemb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloscemb&layout=compact&langs_count=7&theme=algolia"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=carloscemb&theme=algolia"/>
   
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?carloscemb" frameborder="0"></iframe>
-
 ## Ferramentas e Tecnologias
 
 Grupo | Itens
